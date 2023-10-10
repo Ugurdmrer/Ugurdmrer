@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurdmrer&label=Profile%20views&color=0e75b6&style=flat" alt="ugurdmrer" /> </p>
 
-- 🌱 I’m currently learning **React, Python, SQL**
+- 🌱 I’m currently learning **React, Nodejs, Typescript**
 
 - 📫 How to reach me **osmanugurdemirer@outlook.com**
 
